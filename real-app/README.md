@@ -1,2 +1,2 @@
-This folder contains the code of a reasonably real application 
-implemented in the language.
+Source: https://github.com/anatoly62/scala-gui/blob/master/AndroidHelper.scala
+This is and Andriod Helper Program.
