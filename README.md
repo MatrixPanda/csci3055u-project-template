@@ -1,7 +1,7 @@
 ## Scala
 
-•	Zehan Song_
-•	ze.song@uoit.net_
+> - Zehan Song
+> - ze.song@uoit.net
 
 ## About the language
 
