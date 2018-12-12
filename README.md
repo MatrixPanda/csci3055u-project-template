@@ -1,4 +1,4 @@
-#Scala
+## Scala
 
 •	Zehan Song
 •	ze.song@uoit.net
