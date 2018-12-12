@@ -7,8 +7,7 @@
 
 > _Describe the language_
 >
-> - History
-> - Some interesting features
+> Scala was released in 2003 and it is a language that combines functional and object-oriented programming in one concise, high level language. In complex applications, Scala’s static types help avoid bugs and its JavaScript and JVM runtime allows programmers to build high-performance systems with easy access to huge ecosystems of libraries. 
 
 ## About the syntax
 
