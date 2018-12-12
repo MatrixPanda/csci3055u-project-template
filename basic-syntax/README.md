@@ -1,2 +1,3 @@
-This folder includes the sample code to illustrate
-the basic syntax of the language.
+The following object provides a factorial method that computes the factorial of a given number.
+This method definition is an example of a nested method
+
