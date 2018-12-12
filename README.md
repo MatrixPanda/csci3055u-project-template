@@ -1,7 +1,7 @@
-# _Your project title_
+#Scala
 
-- _your name_
-- _your email (uoit.net)_
+•	Zehan Song
+•	ze.song@uoit.net
 
 ## About the language
 
