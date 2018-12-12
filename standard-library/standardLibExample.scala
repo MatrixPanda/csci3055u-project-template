@@ -1,7 +1,11 @@
-scala> val reader = CSVReader.open(new File("sample.csv"))
-reader: com.github.tototoshi.csv.CSVReader = com.github.tototoshi.csv.CSVReader@36d0c6dd
+package collection
 
-scala> reader.all()
-res0: List[List[String]] = List(List(a, b, c), List(d, e, f))
+scala> val seq = Seq(1,2,3,4,1)
+seq: Seq[Int] = List(1, 2, 3, 4, 1)
 
-scala> reader.close()
+scala> val set = Set(1,2,3,4,1)
+set: scala.collection.immutable.Set[Int] = Set(1, 2, 3, 4)
+
+scala> val map = Map(1 -> "one", 2 -> "two", 3 -> "three", 2 -> "too")
+map: scala.collection.immutable.Map[Int,String] = Map(1 -> one, 2 -> too, 3 -> three)
+
